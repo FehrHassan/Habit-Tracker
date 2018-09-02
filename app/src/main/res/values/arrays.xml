@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="spinner_items">
+        <item name="random">@string/random</item>
+        <item name="daily">@string/daily</item>
+        <item name="weekly">@string/weekly</item>
+        <item name="monthly">@string/monthly</item>
+        <item name="annual">@string/annual</item>
+    </array>
+</resources>
